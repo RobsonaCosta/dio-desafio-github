@@ -1,0 +1,12 @@
+O Git Bash é um terminal estendido para o uso do Git
+
+passo a passo básico
+
+git clone + http do repositório
+
+git add . (para ir todo os arquivos de mudança)
+
+git commit -m "msg do que é a mudança"
+
+git push origin main (para levar os arquivos para o repositório)
+
